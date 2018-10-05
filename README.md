@@ -23,12 +23,14 @@ Es un lenguaje de marcado simple, sirve para hacer contenidos, documentación e 
 ## ¿Como inicializo y configuro un proyecto de GIT?
 Inicializo con el comando
 
+```bash
 git init
-
+```
 Configuro con el comando
 
+```bash
 git remote add origin _url del repo_
-
+```
 ## Preguntas
 
 1. ¿Para qué ayuda el `git stash`?
@@ -47,40 +49,58 @@ Shell es el corazón del sistema operatico y la terminal es el programa que inte
 5. ¿Que hace estos comandos? `git clone`, `git status`, `git add`, `git commit`, `git push`, `git checkout`, `git stash`, `git rebase`, `git merge`, `git branch`, `git push`,
 
 
-´´´bash
+```bash
 git clone
-´´´
+```
 Clona un repositorio y lo mantiene sincronizado
 
-´´´bash
+```bash
 git status
-´´´
+```
 Muestra el estado actual de los archivos
 
+```bash
 git add
+```
 Agrega archivos para ser confirmados
 
-git commit 
+```bash
+git commit
+``` 
 Confirma archivos al stage 
 
+```bash
 git push
+```
 Empuja los cometidos
 
+```bash
 git checkout
+```
 Regresa a un estado 
 
+```bash
 git stash
+```
 Activa el comando para gestionar en el registro temporal
 
+```bash
 git rebase
+```
 Permite gestionar las confirmaciones realizadas. Edita la historia del proyecto.
 
+```bash
 git merge
+```
 Mezcla confirmaciones de una rama a otra.
 
+```bash
 git branch
+```
 Lista las ramas actuales.
 
+```bash
 git push
+```
 Empuja las confirmaciones al repositorio remoto.
 
