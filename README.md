@@ -29,7 +29,7 @@ git init
 Configuro con el comando
 
 ```bash
-git remote add origin _url del repo_
+git remote add origin *url del repo*
 ```
 ## Preguntas
 
