@@ -46,10 +46,15 @@ Shell es el corazón del sistema operatico y la terminal es el programa que inte
 
 5. ¿Que hace estos comandos? `git clone`, `git status`, `git add`, `git commit`, `git push`, `git checkout`, `git stash`, `git rebase`, `git merge`, `git branch`, `git push`,
 
+
+´´´bash
 git clone
+´´´
 Clona un repositorio y lo mantiene sincronizado
 
+´´´bash
 git status
+´´´
 Muestra el estado actual de los archivos
 
 git add
