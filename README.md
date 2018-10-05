@@ -2,7 +2,7 @@
 Capacitación: Git, bash, y docker
 Integrantes:
   - Renán Romero Ruiz
-  - Nn Nn
+  - Scrum Master
 
 ## ¿Qué es y para que sirve GIT?
 Es un sistema de manejo de control de versiones.
